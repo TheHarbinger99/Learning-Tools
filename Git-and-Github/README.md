@@ -6,4 +6,4 @@ Some useful Youtube links in an useful order:
 
 [Advanced](https://www.youtube.com/watch?v=0SJCYPsef54)
 
-How to insert links in markdown(.md) format[Youtube](https://www.youtube.com/watch?v=0aJCGOxeHVk)
+How to insert links in markdown(.md) format [Youtube](https://www.youtube.com/watch?v=0aJCGOxeHVk)

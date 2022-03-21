@@ -35,3 +35,19 @@ Configuring github :
 git config --global user.name "user_name"
 git config --global user.email "email_id"
 ```
+\
+\
+Creating a local repository:
+```
+git init Mytest
+```
+\
+change directory:
+```
+cd Mytest
+```
+\
+creating a readme file to provide description for the directory:
+```
+gedit README
+```

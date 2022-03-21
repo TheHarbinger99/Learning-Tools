@@ -68,7 +68,9 @@ create a repo on github account by selecting the plus icon and the same name as 
 \
 adding tokens:
 github settings->developer settings->personal access tokens->generate new token->copy and save token
-\\
+\
+\
+\
 connecting and pushing local repo contents to github repo:
 ```
 git branch -M main

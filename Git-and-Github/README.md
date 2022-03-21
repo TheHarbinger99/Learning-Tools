@@ -15,9 +15,9 @@ checking ubuntu version command :
 ```
 lsb_release -a
 ```
-
-
-
+\
+\
+\
 installing git on ubuntu commands : 
 ```
 sudo apt update

@@ -12,7 +12,8 @@ How to insert links in markdown(.md) format [Youtube](https://www.youtube.com/wa
 checking ubuntu version command : lsb_release -a
 
 installing git on ubuntu commands : 
-  sudo apt update
-  sudo apt install git
+    sudo apt update
+    sudo apt install git
   
-    check git version : git --version
+check git version : 
+    git --version

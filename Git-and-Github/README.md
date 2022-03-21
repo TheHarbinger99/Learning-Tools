@@ -51,3 +51,14 @@ creating a readme file to provide description for the directory:
 ```
 gedit README
 ```
+\
+Adding files to index
+```
+git add README
+```
+\
+Committing changes made to the index:
+```
+git commit -m "some_message"
+```
+\

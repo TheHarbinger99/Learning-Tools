@@ -65,7 +65,12 @@ git commit -m "some_message"
 create a repo on github account by selecting the plus icon and the same name as the local one
 \
 \
-pushing local contents to the github repo:
+connecting with the github repo:
 ```
 git remote add origin https://github.com/user_name/Mytest.git
+```
+\
+pushing local repo contents to github repo:
+```
+git push origin master
 ```
